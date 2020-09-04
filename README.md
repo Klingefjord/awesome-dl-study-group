@@ -6,7 +6,7 @@ __Contributions are welcome, so please open a PR if you can improve this list or
 
 ## What is it?
 
-This is a big study list for deep learning, croudsourced by the Deep Learning Study Group at Discord.
+This is a big study list for deep learning, croudsourced by the [Deep Learning Study Group at Discord](#study-group-invite).
 You can start this with or without programming skills. With or without math and/or linear algebra skills.
 
 By the end of this study guide you should:
@@ -14,6 +14,10 @@ By the end of this study guide you should:
 - Understand how deep learning models function and the intuition behind them
 - Have acquired knowledge of the popular and best-performing neural network architectures
 - Be able to make deep learning models from scratch
+
+## Study group invite
+
+For an invite to the study group discord, write to [Oliver Klingefjord on Twitter]("https://twitter.com/klingfjord") or use the following link: https://discord.gg/4KY7M3N
 
 ## Why use it?
 
@@ -31,6 +35,7 @@ Everything below is an outline, and you should tackle the items in order from to
 - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
 - [Before you Get Started](#before-you-get-started)
 - [What you Won't See Covered](#what-you-wont-see-covered)
+- [Invite to the study group discord](#study-group-invite)
 
 - [Prerequisite Knowledge - Programming](#programming-prerequisite-knowledge)
 - [Prerequisite Knowledge - Math](#math-prerequisite-knowledge)

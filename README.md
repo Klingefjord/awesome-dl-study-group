@@ -17,7 +17,7 @@ By the end of this study guide you should:
 
 ## Study group invite
 
-For an invite to the study group discord, write to [Oliver Klingefjord on Twitter]("https://twitter.com/klingfjord") or use the following link: https://discord.gg/4KY7M3N
+For an invite to the study group discord, use the following link: https://discord.gg/4KY7M3N or write to [@Klingfjord on Twitter](https://twitter.com/klingfjord)
 
 ## Why use it?
 
